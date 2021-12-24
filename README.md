@@ -11,4 +11,4 @@ A simple palindrome challenge
 
 ---
 
-A CLI has been created, but if prefer to view only the basic function implementation, read in PalindromeChecker::canBePalindrome()
+A CLI has been created, but if prefer to view only the basic function implementation, read in `PalindromeChecker::canBePalindrome()`
