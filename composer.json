@@ -1,0 +1,16 @@
+{
+    "name": "lafraga93/palindrome-challenge",
+    "description": "A simple palindrome challenge",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gustavo Fraga",
+            "email": "gustavolafraga@gmail.com"
+        }
+    ],
+    "require": {}
+}
